@@ -1,0 +1,67 @@
+Initialize engine version: 2017.1.0p4 (892c0f8d8f8a)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics (ID=0x152)
+    Vendor:   Intel
+    VRAM:     1008 MB
+    Driver:   10.18.10.4653
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Andrew\Desktop\Frogger Gavin Version\Builds\V1.0_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.322 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.785805 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 12.756514 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.495113 ms (FindLiveObjects: 0.066888 ms CreateObjectMapping: 0.043176 ms MarkObjects: 0.374431 ms  DeleteObjects: 0.009201 ms)
+
+You Win!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.904227 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.563417 ms (FindLiveObjects: 0.055563 ms CreateObjectMapping: 0.042822 ms MarkObjects: 0.450521 ms  DeleteObjects: 0.013094 ms)
+
+Collected!!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+You Win!!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.695069 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.439904 ms (FindLiveObjects: 0.040699 ms CreateObjectMapping: 0.031497 ms MarkObjects: 0.358152 ms  DeleteObjects: 0.008493 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.652955 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 429.
+Total: 0.479895 ms (FindLiveObjects: 0.056978 ms CreateObjectMapping: 0.042468 ms MarkObjects: 0.369123 ms  DeleteObjects: 0.009909 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 8d70 -> priority: 1 
+  Thread -> id: 7e68 -> priority: 1 
