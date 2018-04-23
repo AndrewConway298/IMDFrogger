@@ -6,7 +6,7 @@ public class Frog : MonoBehaviour {
 
     public Rigidbody2D frogRB;
 
-    public GameObject gameOverMenu;
+    public GameObject gameOverMenu, pauseMenu;
 
     public AudioSource hop, squash;
 
@@ -33,6 +33,11 @@ public class Frog : MonoBehaviour {
         {
             frogRB.MovePosition(frogRB.position + Vector2.down);
             hop.Play();
+        }
+        else if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Time.timeScale = 0;
+            pauseMenu.SetActive(true);
         }
     }
 

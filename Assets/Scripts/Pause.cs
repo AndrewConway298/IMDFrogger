@@ -1,10 +1,17 @@
-﻿
+﻿using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-public class GameOver : MonoBehaviour {
+public class Pause : MonoBehaviour {
 
-    public GameObject gameOverMenu;
+    public GameObject pauseMenu;
+
+    public void ResumeGame()
+    {
+        Time.timeScale = 1;
+        pauseMenu.SetActive(false);
+    }
 
     public void RestartGame()
     {
@@ -13,7 +20,7 @@ public class GameOver : MonoBehaviour {
         Level.CurrentLevel = 1;
         Time.timeScale = 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
-        gameOverMenu.SetActive(false);
+        pauseMenu.SetActive(false);
     }
 
     public void QuitGame()
